@@ -1,0 +1,6 @@
+.vs/
+output/
+x64/
+
+*.vsidx
+*.bak
